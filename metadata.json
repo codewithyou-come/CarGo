@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Racer",
+  "description": "An arcade car racing game with responsive controls, traffic dodging, coin collecting, speed boosts, and audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
